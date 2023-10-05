@@ -8,4 +8,3 @@ module.exports.singlePerson = person
 
 console.log(module)
 
-https://github.com/Allandpn/nodeExpress.git
